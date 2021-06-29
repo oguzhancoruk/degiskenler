@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\bin\Debug\net5.0\degişkenler.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\bin\Debug\net5.0\degişkenler.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\bin\Debug\net5.0\degişkenler.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\bin\Debug\net5.0\degişkenler.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\bin\Debug\net5.0\degişkenler.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\bin\Debug\net5.0\ref\degişkenler.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\bin\Debug\net5.0\degişkenler.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\obj\Debug\net5.0\degişkenler.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\obj\Debug\net5.0\degişkenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\obj\Debug\net5.0\degişkenler.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\obj\Debug\net5.0\degişkenler.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\obj\Debug\net5.0\degişkenler.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\obj\Debug\net5.0\degişkenler.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\obj\Debug\net5.0\ref\degişkenler.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\obj\Debug\net5.0\degişkenler.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\degişkenler\obj\Debug\net5.0\degişkenler.genruntimeconfig.cache
