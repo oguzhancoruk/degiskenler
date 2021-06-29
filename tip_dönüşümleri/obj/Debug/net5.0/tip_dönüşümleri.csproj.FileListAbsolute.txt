@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\bin\Debug\net5.0\tip_dönüşümleri.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\bin\Debug\net5.0\tip_dönüşümleri.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\bin\Debug\net5.0\tip_dönüşümleri.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\bin\Debug\net5.0\tip_dönüşümleri.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\bin\Debug\net5.0\tip_dönüşümleri.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\bin\Debug\net5.0\ref\tip_dönüşümleri.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\bin\Debug\net5.0\tip_dönüşümleri.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\obj\Debug\net5.0\ref\tip_dönüşümleri.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.genruntimeconfig.cache
