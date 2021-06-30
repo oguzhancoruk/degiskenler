@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\bin\Debug\net5.0\if_else.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\bin\Debug\net5.0\if_else.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\bin\Debug\net5.0\if_else.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\bin\Debug\net5.0\if_else.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\bin\Debug\net5.0\if_else.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\bin\Debug\net5.0\ref\if_else.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\bin\Debug\net5.0\if_else.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\obj\Debug\net5.0\if_else.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\obj\Debug\net5.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\obj\Debug\net5.0\if_else.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\obj\Debug\net5.0\if_else.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\obj\Debug\net5.0\if_else.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\obj\Debug\net5.0\if_else.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\obj\Debug\net5.0\ref\if_else.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\obj\Debug\net5.0\if_else.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\if_else\obj\Debug\net5.0\if_else.genruntimeconfig.cache
