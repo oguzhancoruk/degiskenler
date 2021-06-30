@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\bin\Debug\net5.0\Hata_Yönetimi.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\bin\Debug\net5.0\Hata_Yönetimi.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\bin\Debug\net5.0\Hata_Yönetimi.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\bin\Debug\net5.0\Hata_Yönetimi.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\bin\Debug\net5.0\Hata_Yönetimi.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\bin\Debug\net5.0\ref\Hata_Yönetimi.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\bin\Debug\net5.0\Hata_Yönetimi.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\obj\Debug\net5.0\Hata_Yönetimi.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\obj\Debug\net5.0\Hata_Yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\obj\Debug\net5.0\Hata_Yönetimi.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\obj\Debug\net5.0\Hata_Yönetimi.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\obj\Debug\net5.0\Hata_Yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\obj\Debug\net5.0\Hata_Yönetimi.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\obj\Debug\net5.0\ref\Hata_Yönetimi.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\obj\Debug\net5.0\Hata_Yönetimi.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Hata_Yönetimi\obj\Debug\net5.0\Hata_Yönetimi.genruntimeconfig.cache
