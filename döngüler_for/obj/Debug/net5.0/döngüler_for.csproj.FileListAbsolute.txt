@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\bin\Debug\net5.0\döngüler_for.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\bin\Debug\net5.0\döngüler_for.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\bin\Debug\net5.0\döngüler_for.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\bin\Debug\net5.0\döngüler_for.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\bin\Debug\net5.0\döngüler_for.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\bin\Debug\net5.0\ref\döngüler_for.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\bin\Debug\net5.0\döngüler_for.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\obj\Debug\net5.0\döngüler_for.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\obj\Debug\net5.0\döngüler_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\obj\Debug\net5.0\döngüler_for.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\obj\Debug\net5.0\döngüler_for.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\obj\Debug\net5.0\döngüler_for.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\obj\Debug\net5.0\döngüler_for.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\obj\Debug\net5.0\ref\döngüler_for.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\obj\Debug\net5.0\döngüler_for.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\döngüler_for\obj\Debug\net5.0\döngüler_for.genruntimeconfig.cache
