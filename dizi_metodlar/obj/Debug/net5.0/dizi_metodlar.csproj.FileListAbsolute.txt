@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\bin\Debug\net5.0\dizi_metodlar.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\bin\Debug\net5.0\dizi_metodlar.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\bin\Debug\net5.0\dizi_metodlar.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\bin\Debug\net5.0\dizi_metodlar.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\bin\Debug\net5.0\dizi_metodlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\bin\Debug\net5.0\ref\dizi_metodlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\bin\Debug\net5.0\dizi_metodlar.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\obj\Debug\net5.0\dizi_metodlar.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\obj\Debug\net5.0\dizi_metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\obj\Debug\net5.0\dizi_metodlar.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\obj\Debug\net5.0\dizi_metodlar.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\obj\Debug\net5.0\dizi_metodlar.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\obj\Debug\net5.0\dizi_metodlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\obj\Debug\net5.0\ref\dizi_metodlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\obj\Debug\net5.0\dizi_metodlar.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\dizi_metodlar\obj\Debug\net5.0\dizi_metodlar.genruntimeconfig.cache

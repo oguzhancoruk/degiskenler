@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "dizi_metodlar/1.0.0": {
+        "runtime": {
+          "dizi_metodlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dizi_metodlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
