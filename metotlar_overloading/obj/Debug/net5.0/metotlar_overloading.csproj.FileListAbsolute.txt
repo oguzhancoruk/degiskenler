@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\bin\Debug\net5.0\metotlar_overloading.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\bin\Debug\net5.0\metotlar_overloading.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\bin\Debug\net5.0\metotlar_overloading.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\bin\Debug\net5.0\metotlar_overloading.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\bin\Debug\net5.0\metotlar_overloading.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\bin\Debug\net5.0\ref\metotlar_overloading.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\bin\Debug\net5.0\metotlar_overloading.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\obj\Debug\net5.0\metotlar_overloading.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\obj\Debug\net5.0\metotlar_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\obj\Debug\net5.0\metotlar_overloading.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\obj\Debug\net5.0\metotlar_overloading.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\obj\Debug\net5.0\metotlar_overloading.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\obj\Debug\net5.0\metotlar_overloading.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\obj\Debug\net5.0\ref\metotlar_overloading.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\obj\Debug\net5.0\metotlar_overloading.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar_overloading\obj\Debug\net5.0\metotlar_overloading.genruntimeconfig.cache
