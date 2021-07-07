@@ -1,0 +1,16 @@
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\bin\Debug\net5.0\metotlar.exe
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\bin\Debug\net5.0\metotlar.deps.json
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.json
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.dev.json
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\bin\Debug\net5.0\metotlar.dll
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\bin\Debug\net5.0\ref\metotlar.dll
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\bin\Debug\net5.0\metotlar.pdb
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\obj\Debug\net5.0\metotlar.csprojAssemblyReference.cache
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\obj\Debug\net5.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfoInputs.cache
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfo.cs
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\obj\Debug\net5.0\metotlar.csproj.CoreCompileInputs.cache
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\obj\Debug\net5.0\metotlar.dll
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\obj\Debug\net5.0\ref\metotlar.dll
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\obj\Debug\net5.0\metotlar.pdb
+c:\Users\coruk\OneDrive\Masaüstü\programlama_2021\metotlar\obj\Debug\net5.0\metotlar.genruntimeconfig.cache
