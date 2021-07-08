@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\bin\Debug\net5.0\soru_3.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\bin\Debug\net5.0\soru_3.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\bin\Debug\net5.0\soru_3.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\bin\Debug\net5.0\soru_3.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\bin\Debug\net5.0\soru_3.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\bin\Debug\net5.0\ref\soru_3.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\bin\Debug\net5.0\soru_3.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\obj\Debug\net5.0\soru_3.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\obj\Debug\net5.0\soru_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\obj\Debug\net5.0\soru_3.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\obj\Debug\net5.0\soru_3.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\obj\Debug\net5.0\soru_3.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\obj\Debug\net5.0\soru_3.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\obj\Debug\net5.0\ref\soru_3.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\obj\Debug\net5.0\soru_3.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\örnekler\soru_3\obj\Debug\net5.0\soru_3.genruntimeconfig.cache
