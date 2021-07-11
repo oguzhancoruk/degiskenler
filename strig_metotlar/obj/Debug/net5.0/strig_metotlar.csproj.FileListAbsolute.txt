@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\bin\Debug\net5.0\strig_metotlar.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\bin\Debug\net5.0\strig_metotlar.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\bin\Debug\net5.0\strig_metotlar.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\bin\Debug\net5.0\strig_metotlar.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\bin\Debug\net5.0\strig_metotlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\bin\Debug\net5.0\ref\strig_metotlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\bin\Debug\net5.0\strig_metotlar.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\obj\Debug\net5.0\strig_metotlar.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\obj\Debug\net5.0\strig_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\obj\Debug\net5.0\strig_metotlar.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\obj\Debug\net5.0\strig_metotlar.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\obj\Debug\net5.0\strig_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\obj\Debug\net5.0\strig_metotlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\obj\Debug\net5.0\ref\strig_metotlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\obj\Debug\net5.0\strig_metotlar.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\strig_metotlar\obj\Debug\net5.0\strig_metotlar.genruntimeconfig.cache
