@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\bin\Debug\net5.0\koleksiyonlar.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\bin\Debug\net5.0\koleksiyonlar.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\bin\Debug\net5.0\koleksiyonlar.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\bin\Debug\net5.0\koleksiyonlar.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\bin\Debug\net5.0\koleksiyonlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\bin\Debug\net5.0\ref\koleksiyonlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\bin\Debug\net5.0\koleksiyonlar.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\obj\Debug\net5.0\koleksiyonlar.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\obj\Debug\net5.0\koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\obj\Debug\net5.0\koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\obj\Debug\net5.0\koleksiyonlar.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\obj\Debug\net5.0\koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\obj\Debug\net5.0\koleksiyonlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\obj\Debug\net5.0\ref\koleksiyonlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\obj\Debug\net5.0\koleksiyonlar.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\koleksiyonlar\obj\Debug\net5.0\koleksiyonlar.genruntimeconfig.cache
