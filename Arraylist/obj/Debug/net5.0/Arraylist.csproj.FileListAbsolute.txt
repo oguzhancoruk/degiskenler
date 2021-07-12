@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\bin\Debug\net5.0\Arraylist.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\bin\Debug\net5.0\Arraylist.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\bin\Debug\net5.0\Arraylist.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\bin\Debug\net5.0\Arraylist.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\bin\Debug\net5.0\Arraylist.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\bin\Debug\net5.0\ref\Arraylist.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\bin\Debug\net5.0\Arraylist.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\obj\Debug\net5.0\Arraylist.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\obj\Debug\net5.0\Arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\obj\Debug\net5.0\Arraylist.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\obj\Debug\net5.0\Arraylist.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\obj\Debug\net5.0\Arraylist.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\obj\Debug\net5.0\Arraylist.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\obj\Debug\net5.0\ref\Arraylist.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\obj\Debug\net5.0\Arraylist.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Arraylist\obj\Debug\net5.0\Arraylist.genruntimeconfig.cache
