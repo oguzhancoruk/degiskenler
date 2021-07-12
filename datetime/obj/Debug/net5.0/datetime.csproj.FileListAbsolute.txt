@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\bin\Debug\net5.0\datetime.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\bin\Debug\net5.0\datetime.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\bin\Debug\net5.0\datetime.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\bin\Debug\net5.0\datetime.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\bin\Debug\net5.0\datetime.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\bin\Debug\net5.0\ref\datetime.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\bin\Debug\net5.0\datetime.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\obj\Debug\net5.0\datetime.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\obj\Debug\net5.0\datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\obj\Debug\net5.0\datetime.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\obj\Debug\net5.0\datetime.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\obj\Debug\net5.0\datetime.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\obj\Debug\net5.0\datetime.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\obj\Debug\net5.0\ref\datetime.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\obj\Debug\net5.0\datetime.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\datetime\obj\Debug\net5.0\datetime.genruntimeconfig.cache
