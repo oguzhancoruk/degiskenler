@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\bin\Debug\net5.0\sınıf_kavarmı.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\bin\Debug\net5.0\sınıf_kavarmı.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\bin\Debug\net5.0\sınıf_kavarmı.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\bin\Debug\net5.0\sınıf_kavarmı.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\bin\Debug\net5.0\sınıf_kavarmı.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\bin\Debug\net5.0\ref\sınıf_kavarmı.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\bin\Debug\net5.0\sınıf_kavarmı.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\obj\Debug\net5.0\sınıf_kavarmı.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\obj\Debug\net5.0\sınıf_kavarmı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\obj\Debug\net5.0\sınıf_kavarmı.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\obj\Debug\net5.0\sınıf_kavarmı.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\obj\Debug\net5.0\sınıf_kavarmı.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\obj\Debug\net5.0\sınıf_kavarmı.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\obj\Debug\net5.0\ref\sınıf_kavarmı.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\obj\Debug\net5.0\sınıf_kavarmı.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\sınıf_kavarmı\obj\Debug\net5.0\sınıf_kavarmı.genruntimeconfig.cache
