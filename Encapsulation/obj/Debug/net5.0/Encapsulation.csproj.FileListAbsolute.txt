@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\bin\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\obj\Debug\net5.0\Encapsulation.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache
