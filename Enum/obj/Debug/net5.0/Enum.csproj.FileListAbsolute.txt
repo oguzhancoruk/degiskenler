@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\obj\Debug\net5.0\Enum.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\bin\Debug\net5.0\Enum.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\bin\Debug\net5.0\Enum.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\bin\Debug\net5.0\Enum.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\bin\Debug\net5.0\Enum.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\bin\Debug\net5.0\Enum.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\bin\Debug\net5.0\ref\Enum.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\bin\Debug\net5.0\Enum.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\obj\Debug\net5.0\Enum.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\obj\Debug\net5.0\ref\Enum.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\obj\Debug\net5.0\Enum.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Enum\obj\Debug\net5.0\Enum.genruntimeconfig.cache
