@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\bin\Debug\net5.0\Static_Sınıf_ve_Üyeler.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\bin\Debug\net5.0\Static_Sınıf_ve_Üyeler.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\bin\Debug\net5.0\Static_Sınıf_ve_Üyeler.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\bin\Debug\net5.0\Static_Sınıf_ve_Üyeler.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\bin\Debug\net5.0\Static_Sınıf_ve_Üyeler.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\bin\Debug\net5.0\ref\Static_Sınıf_ve_Üyeler.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\bin\Debug\net5.0\Static_Sınıf_ve_Üyeler.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\obj\Debug\net5.0\Static_Sınıf_ve_Üyeler.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\obj\Debug\net5.0\Static_Sınıf_ve_Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\obj\Debug\net5.0\Static_Sınıf_ve_Üyeler.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\obj\Debug\net5.0\Static_Sınıf_ve_Üyeler.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\obj\Debug\net5.0\Static_Sınıf_ve_Üyeler.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\obj\Debug\net5.0\Static_Sınıf_ve_Üyeler.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\obj\Debug\net5.0\ref\Static_Sınıf_ve_Üyeler.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\obj\Debug\net5.0\Static_Sınıf_ve_Üyeler.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\Static_Sınıf_ve_Üyeler\obj\Debug\net5.0\Static_Sınıf_ve_Üyeler.genruntimeconfig.cache
