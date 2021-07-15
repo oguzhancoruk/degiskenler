@@ -1,0 +1,16 @@
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.csprojAssemblyReference.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.AssemblyInfoInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.AssemblyInfo.cs
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.exe
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.deps.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.runtimeconfig.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.runtimeconfig.dev.json
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\bin\Debug\net5.0\ref\kurucu_metotlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\obj\Debug\net5.0\ref\kurucu_metotlar.dll
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.pdb
+C:\Users\coruk\OneDrive\Masaüstü\programlama_2021\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.genruntimeconfig.cache
